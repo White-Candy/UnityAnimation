@@ -1,0 +1,1205 @@
+fileFormatVersion: 2
+guid: dea7804f6ca2c00458abd222d9c32fbd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: donghua1mb___S__:_QB_L3
+    100002: donghua1mb___S__:_QB_L4
+    100004: donghua1mb___S__:_QB_L5
+    100006: donghua1mb___S__:A_LOW_1
+    100008: donghua1mb___S__:A_LOW_1 1
+    100010: donghua1mb___S__:A_LOW_1 10
+    100012: donghua1mb___S__:A_LOW_1 11
+    100014: donghua1mb___S__:A_LOW_1 12
+    100016: donghua1mb___S__:A_LOW_1 13
+    100018: donghua1mb___S__:A_LOW_1 14
+    100020: donghua1mb___S__:A_LOW_1 15
+    100022: donghua1mb___S__:A_LOW_1 16
+    100024: donghua1mb___S__:A_LOW_1 2
+    100026: donghua1mb___S__:A_LOW_1 3
+    100028: donghua1mb___S__:A_LOW_1 4
+    100030: donghua1mb___S__:A_LOW_1 5
+    100032: donghua1mb___S__:A_LOW_1 6
+    100034: donghua1mb___S__:A_LOW_1 7
+    100036: donghua1mb___S__:A_LOW_1 8
+    100038: donghua1mb___S__:A_LOW_1 9
+    100040: donghua1mb___S__:A_LOW_2
+    100042: donghua1mb___S__:A_LOW_2 1
+    100044: donghua1mb___S__:A_LOW_2 2
+    100046: donghua1mb___S__:A_LOW_2 3
+    100048: donghua1mb___S__:A_LOW_2 4
+    100050: donghua1mb___S__:B_LOW_1
+    100052: donghua1mb___S__:B_LOW_1 1
+    100054: donghua1mb___S__:B_LOW_1 10
+    100056: donghua1mb___S__:B_LOW_1 11
+    100058: donghua1mb___S__:B_LOW_1 12
+    100060: donghua1mb___S__:B_LOW_1 13
+    100062: donghua1mb___S__:B_LOW_1 14
+    100064: donghua1mb___S__:B_LOW_1 15
+    100066: donghua1mb___S__:B_LOW_1 16
+    100068: donghua1mb___S__:B_LOW_1 2
+    100070: donghua1mb___S__:B_LOW_1 3
+    100072: donghua1mb___S__:B_LOW_1 4
+    100074: donghua1mb___S__:B_LOW_1 5
+    100076: donghua1mb___S__:B_LOW_1 6
+    100078: donghua1mb___S__:B_LOW_1 7
+    100080: donghua1mb___S__:B_LOW_1 8
+    100082: donghua1mb___S__:B_LOW_1 9
+    100084: donghua1mb___S__:B_LOW_2
+    100086: donghua1mb___S__:B_LOW_2 1
+    100088: donghua1mb___S__:B_LOW_2 2
+    100090: donghua1mb___S__:B_LOW_2 3
+    100092: donghua1mb___S__:B_LOW_2 4
+    100094: donghua1mb___S__:B_LOW_3
+    100096: donghua1mb___S__:B_LOW_3 1
+    100098: donghua1mb___S__:B_LOW_3 2
+    100100: donghua1mb___S__:B_LOW_3 3
+    100102: donghua1mb___S__:B_LOW_3 4
+    100104: donghua1mb___S__:banshou1
+    100106: donghua1mb___S__:C_LOW_1
+    100108: donghua1mb___S__:C_LOW_1 1
+    100110: donghua1mb___S__:C_LOW_1 10
+    100112: donghua1mb___S__:C_LOW_1 11
+    100114: donghua1mb___S__:C_LOW_1 12
+    100116: donghua1mb___S__:C_LOW_1 13
+    100118: donghua1mb___S__:C_LOW_1 14
+    100120: donghua1mb___S__:C_LOW_1 15
+    100122: donghua1mb___S__:C_LOW_1 16
+    100124: donghua1mb___S__:C_LOW_1 2
+    100126: donghua1mb___S__:C_LOW_1 3
+    100128: donghua1mb___S__:C_LOW_1 4
+    100130: donghua1mb___S__:C_LOW_1 5
+    100132: donghua1mb___S__:C_LOW_1 6
+    100134: donghua1mb___S__:C_LOW_1 7
+    100136: donghua1mb___S__:C_LOW_1 8
+    100138: donghua1mb___S__:C_LOW_1 9
+    100140: donghua1mb___S__:cahgnjing
+    100142: donghua1mb___S__:camera1
+    100144: donghua1mb___S__:celaing
+    100146: donghua1mb___S__:celaing1
+    100148: donghua1mb___S__:celaing2
+    100150: donghua1mb___S__:celaing3
+    100152: donghua1mb___S__:celaing4
+    100154: donghua1mb___S__:celaing5
+    100156: donghua1mb___S__:celaing6
+    100158: donghua1mb___S__:celaing7
+    100160: donghua1mb___S__:celaing8
+    100162: donghua1mb___S__:celaing9
+    100164: donghua1mb___S__:dianchui:polySurface8714
+    100166: donghua1mb___S__:dong
+    100168: donghua1mb___S__:Gongju
+    100170: donghua1mb___S__:group1
+    100172: donghua1mb___S__:guagou
+    100174: donghua1mb___S__:guidao
+    100176: donghua1mb___S__:guidao_1_:polySurface2
+    100178: donghua1mb___S__:guidao_1_:polySurface3
+    100180: donghua1mb___S__:gunzhou
+    100182: donghua1mb___S__:HC:polySurface1
+    100184: donghua1mb___S__:huichan
+    100186: donghua1mb___S__:Ji_guangxian
+    100188: donghua1mb___S__:Ji_guangxian2
+    100190: donghua1mb___S__:Ji_guangxian3
+    100192: donghua1mb___S__:KD:pCylinder13
+    100194: donghua1mb___S__:laji
+    100196: donghua1mb___S__:langtou:_DC_L1
+    100198: donghua1mb___S__:luosi
+    100200: donghua1mb___S__:luosi 1
+    100202: donghua1mb___S__:luosi 2
+    100204: donghua1mb___S__:luosi1
+    100206: donghua1mb___S__:luosi1 1
+    100208: donghua1mb___S__:luosi10
+    100210: donghua1mb___S__:luosi11
+    100212: donghua1mb___S__:luosi12
+    100214: donghua1mb___S__:luosi13
+    100216: donghua1mb___S__:luosi14
+    100218: donghua1mb___S__:luosi15
+    100220: donghua1mb___S__:luosi16
+    100222: donghua1mb___S__:luosi2
+    100224: donghua1mb___S__:luosi2 1
+    100226: donghua1mb___S__:luosi3
+    100228: donghua1mb___S__:luosi3 1
+    100230: donghua1mb___S__:luosi4
+    100232: donghua1mb___S__:luosi5
+    100234: donghua1mb___S__:luosi6
+    100236: donghua1mb___S__:luosi7
+    100238: donghua1mb___S__:luosi8
+    100240: donghua1mb___S__:luosi9
+    100242: donghua1mb___S__:luosizong
+    100244: donghua1mb___S__:men1
+    100246: donghua1mb___S__:modou1
+    100248: donghua1mb___S__:modou:polySurface1
+    100250: donghua1mb___S__:moxian
+    100252: donghua1mb___S__:nurbsCircle3
+    100254: donghua1mb___S__:ozls:A_LOW_1
+    100256: donghua1mb___S__:ozls:B_LOW_1
+    100258: donghua1mb___S__:ozls:C_LOW_1
+    100260: donghua1mb___S__:pCube3
+    100262: donghua1mb___S__:pCube3 1
+    100264: donghua1mb___S__:pCube3 2
+    100266: donghua1mb___S__:pCube4
+    100268: donghua1mb___S__:pCube4 1
+    100270: donghua1mb___S__:pCube4 2
+    100272: donghua1mb___S__:pCube5
+    100274: donghua1mb___S__:pCube5 1
+    100276: donghua1mb___S__:pCube5 2
+    100278: donghua1mb___S__:pCylinder1
+    100280: donghua1mb___S__:pCylinder13
+    100282: donghua1mb___S__:pCylinder14
+    100284: donghua1mb___S__:pCylinder15
+    100286: donghua1mb___S__:pCylinder16
+    100288: donghua1mb___S__:pCylinder17
+    100290: donghua1mb___S__:pCylinder18
+    100292: donghua1mb___S__:pCylinder19
+    100294: donghua1mb___S__:pCylinder2
+    100296: donghua1mb___S__:pCylinder20
+    100298: donghua1mb___S__:pCylinder21
+    100300: donghua1mb___S__:pCylinder22
+    100302: donghua1mb___S__:pCylinder23
+    100304: donghua1mb___S__:pCylinder24
+    100306: donghua1mb___S__:pCylinder25
+    100308: donghua1mb___S__:pCylinder3
+    100310: donghua1mb___S__:pCylinder4
+    100312: donghua1mb___S__:polySurface1
+    100314: donghua1mb___S__:polySurface2
+    100316: donghua1mb___S__:polySurface27
+    100318: donghua1mb___S__:polySurface29
+    100320: donghua1mb___S__:polySurface3
+    100322: donghua1mb___S__:polySurface8716
+    100324: donghua1mb___S__:polySurface8717
+    100326: donghua1mb___S__:polySurface8724
+    100328: donghua1mb___S__:polySurface8731
+    100330: donghua1mb___S__:polySurface8761
+    100332: donghua1mb___S__:polySurface8771
+    100334: donghua1mb___S__:pPlane1
+    100336: donghua1mb___S__:pPlane10
+    100338: donghua1mb___S__:pPlane2
+    100340: donghua1mb___S__:pPlane3
+    100342: donghua1mb___S__:pPlane4
+    100344: donghua1mb___S__:pPlane5
+    100346: donghua1mb___S__:pPlane6
+    100348: donghua1mb___S__:pPlane7
+    100350: donghua1mb___S__:pPlane8
+    100352: donghua1mb___S__:pPlane9
+    100354: donghua1mb___S__:pSphere1
+    100356: donghua1mb___S__:pSphere2
+    100358: donghua1mb___S__:qianbixian1
+    100360: donghua1mb___S__:Shui_pingyi
+    100362: donghua1mb___S__:shuju1
+    100364: donghua1mb___S__:shuju2
+    100366: donghua1mb___S__:shuju3
+    100368: donghua1mb___S__:shuju4
+    100370: donghua1mb___S__:tiaochu
+    100372: donghua1mb___S__:xian1
+    100374: donghua1mb___S__:xian10
+    100376: donghua1mb___S__:xian11
+    100378: donghua1mb___S__:xian12
+    100380: donghua1mb___S__:xian13
+    100382: donghua1mb___S__:xian14
+    100384: donghua1mb___S__:xian15
+    100386: donghua1mb___S__:xian16
+    100388: donghua1mb___S__:xian17
+    100390: donghua1mb___S__:xian18
+    100392: donghua1mb___S__:xian19
+    100394: donghua1mb___S__:xian2
+    100396: donghua1mb___S__:xian20
+    100398: donghua1mb___S__:xian21
+    100400: donghua1mb___S__:xian22
+    100402: donghua1mb___S__:xian23
+    100404: donghua1mb___S__:xian24
+    100406: donghua1mb___S__:xian27
+    100408: donghua1mb___S__:xian28
+    100410: donghua1mb___S__:xian3
+    100412: donghua1mb___S__:xian4
+    100414: donghua1mb___S__:xian5
+    100416: donghua1mb___S__:xian6
+    100418: donghua1mb___S__:xian7
+    100420: donghua1mb___S__:xian8
+    100422: donghua1mb___S__:xian9
+    100424: donghua1mb___S__:Xiang_ji
+    100426: donghua1mb___S__:zhijia:polySurface23
+    100428: donghua1mb___S__:zhijia:polySurface24
+    100430: donghua1mb___S__:ZHLS:A_LOW_2
+    100432: donghua1mb___S__:ZHLS:B_LOW_2
+    100434: donghua1mb___S__:ZHLS:B_LOW_3
+    100436: donghua1mb___S__:zuantou:pCylinder2
+    100438: donghua1mb___S__:zuoheluosi
+    100440: donghua1mb___S__:zuoheluosi 1
+    100442: donghua1mb___S__:zuoheluosi1
+    100444: donghua1mb___S__:zuoheluosi2
+    100446: donghua1mb___S__:zuoheluosi3
+    100448: donghua1mb___S__:zuoheluosi4
+    100450: donghua1mb___S__:zuoheluosi5
+    100452: "donghua1mb___S__:\u5BF9\u8C61001"
+    100454: "donghua1mb___S__:\u7EC4004"
+    100456: group2
+    100458: JLMMS:polySurface1
+    100460: joint27
+    100462: joint28
+    100464: joint29
+    100466: joint30
+    100468: joint31
+    100470: joint32
+    100472: joint33
+    100474: joint34
+    100476: joint35
+    100478: joint36
+    100480: joint37
+    100482: joint38
+    100484: joint39
+    100486: joint40
+    100488: joint41
+    100490: joint42
+    100492: joint43
+    100494: joint44
+    100496: joint45
+    100498: joint46
+    100500: joint47
+    100502: joint48
+    100504: joint49
+    100506: joint50
+    100508: joint51
+    100510: joint52
+    100512: joint53
+    100514: joint54
+    100516: //RootNode
+    100518: left
+    100520: mioanbu:pPlane1
+    100522: nurbsCircle1
+    100524: polySurface8724
+    100526: polySurface8725
+    100528: polySurface8728
+    100530: yaoshi:pCube3
+    100532: zahoban:pCube2
+    400000: donghua1mb___S__:_QB_L3
+    400002: donghua1mb___S__:_QB_L4
+    400004: donghua1mb___S__:_QB_L5
+    400006: donghua1mb___S__:A_LOW_1
+    400008: donghua1mb___S__:A_LOW_1 1
+    400010: donghua1mb___S__:A_LOW_1 10
+    400012: donghua1mb___S__:A_LOW_1 11
+    400014: donghua1mb___S__:A_LOW_1 12
+    400016: donghua1mb___S__:A_LOW_1 13
+    400018: donghua1mb___S__:A_LOW_1 14
+    400020: donghua1mb___S__:A_LOW_1 15
+    400022: donghua1mb___S__:A_LOW_1 16
+    400024: donghua1mb___S__:A_LOW_1 2
+    400026: donghua1mb___S__:A_LOW_1 3
+    400028: donghua1mb___S__:A_LOW_1 4
+    400030: donghua1mb___S__:A_LOW_1 5
+    400032: donghua1mb___S__:A_LOW_1 6
+    400034: donghua1mb___S__:A_LOW_1 7
+    400036: donghua1mb___S__:A_LOW_1 8
+    400038: donghua1mb___S__:A_LOW_1 9
+    400040: donghua1mb___S__:A_LOW_2
+    400042: donghua1mb___S__:A_LOW_2 1
+    400044: donghua1mb___S__:A_LOW_2 2
+    400046: donghua1mb___S__:A_LOW_2 3
+    400048: donghua1mb___S__:A_LOW_2 4
+    400050: donghua1mb___S__:B_LOW_1
+    400052: donghua1mb___S__:B_LOW_1 1
+    400054: donghua1mb___S__:B_LOW_1 10
+    400056: donghua1mb___S__:B_LOW_1 11
+    400058: donghua1mb___S__:B_LOW_1 12
+    400060: donghua1mb___S__:B_LOW_1 13
+    400062: donghua1mb___S__:B_LOW_1 14
+    400064: donghua1mb___S__:B_LOW_1 15
+    400066: donghua1mb___S__:B_LOW_1 16
+    400068: donghua1mb___S__:B_LOW_1 2
+    400070: donghua1mb___S__:B_LOW_1 3
+    400072: donghua1mb___S__:B_LOW_1 4
+    400074: donghua1mb___S__:B_LOW_1 5
+    400076: donghua1mb___S__:B_LOW_1 6
+    400078: donghua1mb___S__:B_LOW_1 7
+    400080: donghua1mb___S__:B_LOW_1 8
+    400082: donghua1mb___S__:B_LOW_1 9
+    400084: donghua1mb___S__:B_LOW_2
+    400086: donghua1mb___S__:B_LOW_2 1
+    400088: donghua1mb___S__:B_LOW_2 2
+    400090: donghua1mb___S__:B_LOW_2 3
+    400092: donghua1mb___S__:B_LOW_2 4
+    400094: donghua1mb___S__:B_LOW_3
+    400096: donghua1mb___S__:B_LOW_3 1
+    400098: donghua1mb___S__:B_LOW_3 2
+    400100: donghua1mb___S__:B_LOW_3 3
+    400102: donghua1mb___S__:B_LOW_3 4
+    400104: donghua1mb___S__:banshou1
+    400106: donghua1mb___S__:C_LOW_1
+    400108: donghua1mb___S__:C_LOW_1 1
+    400110: donghua1mb___S__:C_LOW_1 10
+    400112: donghua1mb___S__:C_LOW_1 11
+    400114: donghua1mb___S__:C_LOW_1 12
+    400116: donghua1mb___S__:C_LOW_1 13
+    400118: donghua1mb___S__:C_LOW_1 14
+    400120: donghua1mb___S__:C_LOW_1 15
+    400122: donghua1mb___S__:C_LOW_1 16
+    400124: donghua1mb___S__:C_LOW_1 2
+    400126: donghua1mb___S__:C_LOW_1 3
+    400128: donghua1mb___S__:C_LOW_1 4
+    400130: donghua1mb___S__:C_LOW_1 5
+    400132: donghua1mb___S__:C_LOW_1 6
+    400134: donghua1mb___S__:C_LOW_1 7
+    400136: donghua1mb___S__:C_LOW_1 8
+    400138: donghua1mb___S__:C_LOW_1 9
+    400140: donghua1mb___S__:cahgnjing
+    400142: donghua1mb___S__:camera1
+    400144: donghua1mb___S__:celaing
+    400146: donghua1mb___S__:celaing1
+    400148: donghua1mb___S__:celaing2
+    400150: donghua1mb___S__:celaing3
+    400152: donghua1mb___S__:celaing4
+    400154: donghua1mb___S__:celaing5
+    400156: donghua1mb___S__:celaing6
+    400158: donghua1mb___S__:celaing7
+    400160: donghua1mb___S__:celaing8
+    400162: donghua1mb___S__:celaing9
+    400164: donghua1mb___S__:dianchui:polySurface8714
+    400166: donghua1mb___S__:dong
+    400168: donghua1mb___S__:Gongju
+    400170: donghua1mb___S__:group1
+    400172: donghua1mb___S__:guagou
+    400174: donghua1mb___S__:guidao
+    400176: donghua1mb___S__:guidao_1_:polySurface2
+    400178: donghua1mb___S__:guidao_1_:polySurface3
+    400180: donghua1mb___S__:gunzhou
+    400182: donghua1mb___S__:HC:polySurface1
+    400184: donghua1mb___S__:huichan
+    400186: donghua1mb___S__:Ji_guangxian
+    400188: donghua1mb___S__:Ji_guangxian2
+    400190: donghua1mb___S__:Ji_guangxian3
+    400192: donghua1mb___S__:KD:pCylinder13
+    400194: donghua1mb___S__:laji
+    400196: donghua1mb___S__:langtou:_DC_L1
+    400198: donghua1mb___S__:luosi
+    400200: donghua1mb___S__:luosi 1
+    400202: donghua1mb___S__:luosi 2
+    400204: donghua1mb___S__:luosi1
+    400206: donghua1mb___S__:luosi1 1
+    400208: donghua1mb___S__:luosi10
+    400210: donghua1mb___S__:luosi11
+    400212: donghua1mb___S__:luosi12
+    400214: donghua1mb___S__:luosi13
+    400216: donghua1mb___S__:luosi14
+    400218: donghua1mb___S__:luosi15
+    400220: donghua1mb___S__:luosi16
+    400222: donghua1mb___S__:luosi2
+    400224: donghua1mb___S__:luosi2 1
+    400226: donghua1mb___S__:luosi3
+    400228: donghua1mb___S__:luosi3 1
+    400230: donghua1mb___S__:luosi4
+    400232: donghua1mb___S__:luosi5
+    400234: donghua1mb___S__:luosi6
+    400236: donghua1mb___S__:luosi7
+    400238: donghua1mb___S__:luosi8
+    400240: donghua1mb___S__:luosi9
+    400242: donghua1mb___S__:luosizong
+    400244: donghua1mb___S__:men1
+    400246: donghua1mb___S__:modou1
+    400248: donghua1mb___S__:modou:polySurface1
+    400250: donghua1mb___S__:moxian
+    400252: donghua1mb___S__:nurbsCircle3
+    400254: donghua1mb___S__:ozls:A_LOW_1
+    400256: donghua1mb___S__:ozls:B_LOW_1
+    400258: donghua1mb___S__:ozls:C_LOW_1
+    400260: donghua1mb___S__:pCube3
+    400262: donghua1mb___S__:pCube3 1
+    400264: donghua1mb___S__:pCube3 2
+    400266: donghua1mb___S__:pCube4
+    400268: donghua1mb___S__:pCube4 1
+    400270: donghua1mb___S__:pCube4 2
+    400272: donghua1mb___S__:pCube5
+    400274: donghua1mb___S__:pCube5 1
+    400276: donghua1mb___S__:pCube5 2
+    400278: donghua1mb___S__:pCylinder1
+    400280: donghua1mb___S__:pCylinder13
+    400282: donghua1mb___S__:pCylinder14
+    400284: donghua1mb___S__:pCylinder15
+    400286: donghua1mb___S__:pCylinder16
+    400288: donghua1mb___S__:pCylinder17
+    400290: donghua1mb___S__:pCylinder18
+    400292: donghua1mb___S__:pCylinder19
+    400294: donghua1mb___S__:pCylinder2
+    400296: donghua1mb___S__:pCylinder20
+    400298: donghua1mb___S__:pCylinder21
+    400300: donghua1mb___S__:pCylinder22
+    400302: donghua1mb___S__:pCylinder23
+    400304: donghua1mb___S__:pCylinder24
+    400306: donghua1mb___S__:pCylinder25
+    400308: donghua1mb___S__:pCylinder3
+    400310: donghua1mb___S__:pCylinder4
+    400312: donghua1mb___S__:polySurface1
+    400314: donghua1mb___S__:polySurface2
+    400316: donghua1mb___S__:polySurface27
+    400318: donghua1mb___S__:polySurface29
+    400320: donghua1mb___S__:polySurface3
+    400322: donghua1mb___S__:polySurface8716
+    400324: donghua1mb___S__:polySurface8717
+    400326: donghua1mb___S__:polySurface8724
+    400328: donghua1mb___S__:polySurface8731
+    400330: donghua1mb___S__:polySurface8761
+    400332: donghua1mb___S__:polySurface8771
+    400334: donghua1mb___S__:pPlane1
+    400336: donghua1mb___S__:pPlane10
+    400338: donghua1mb___S__:pPlane2
+    400340: donghua1mb___S__:pPlane3
+    400342: donghua1mb___S__:pPlane4
+    400344: donghua1mb___S__:pPlane5
+    400346: donghua1mb___S__:pPlane6
+    400348: donghua1mb___S__:pPlane7
+    400350: donghua1mb___S__:pPlane8
+    400352: donghua1mb___S__:pPlane9
+    400354: donghua1mb___S__:pSphere1
+    400356: donghua1mb___S__:pSphere2
+    400358: donghua1mb___S__:qianbixian1
+    400360: donghua1mb___S__:Shui_pingyi
+    400362: donghua1mb___S__:shuju1
+    400364: donghua1mb___S__:shuju2
+    400366: donghua1mb___S__:shuju3
+    400368: donghua1mb___S__:shuju4
+    400370: donghua1mb___S__:tiaochu
+    400372: donghua1mb___S__:xian1
+    400374: donghua1mb___S__:xian10
+    400376: donghua1mb___S__:xian11
+    400378: donghua1mb___S__:xian12
+    400380: donghua1mb___S__:xian13
+    400382: donghua1mb___S__:xian14
+    400384: donghua1mb___S__:xian15
+    400386: donghua1mb___S__:xian16
+    400388: donghua1mb___S__:xian17
+    400390: donghua1mb___S__:xian18
+    400392: donghua1mb___S__:xian19
+    400394: donghua1mb___S__:xian2
+    400396: donghua1mb___S__:xian20
+    400398: donghua1mb___S__:xian21
+    400400: donghua1mb___S__:xian22
+    400402: donghua1mb___S__:xian23
+    400404: donghua1mb___S__:xian24
+    400406: donghua1mb___S__:xian27
+    400408: donghua1mb___S__:xian28
+    400410: donghua1mb___S__:xian3
+    400412: donghua1mb___S__:xian4
+    400414: donghua1mb___S__:xian5
+    400416: donghua1mb___S__:xian6
+    400418: donghua1mb___S__:xian7
+    400420: donghua1mb___S__:xian8
+    400422: donghua1mb___S__:xian9
+    400424: donghua1mb___S__:Xiang_ji
+    400426: donghua1mb___S__:zhijia:polySurface23
+    400428: donghua1mb___S__:zhijia:polySurface24
+    400430: donghua1mb___S__:ZHLS:A_LOW_2
+    400432: donghua1mb___S__:ZHLS:B_LOW_2
+    400434: donghua1mb___S__:ZHLS:B_LOW_3
+    400436: donghua1mb___S__:zuantou:pCylinder2
+    400438: donghua1mb___S__:zuoheluosi
+    400440: donghua1mb___S__:zuoheluosi 1
+    400442: donghua1mb___S__:zuoheluosi1
+    400444: donghua1mb___S__:zuoheluosi2
+    400446: donghua1mb___S__:zuoheluosi3
+    400448: donghua1mb___S__:zuoheluosi4
+    400450: donghua1mb___S__:zuoheluosi5
+    400452: "donghua1mb___S__:\u5BF9\u8C61001"
+    400454: "donghua1mb___S__:\u7EC4004"
+    400456: group2
+    400458: JLMMS:polySurface1
+    400460: joint27
+    400462: joint28
+    400464: joint29
+    400466: joint30
+    400468: joint31
+    400470: joint32
+    400472: joint33
+    400474: joint34
+    400476: joint35
+    400478: joint36
+    400480: joint37
+    400482: joint38
+    400484: joint39
+    400486: joint40
+    400488: joint41
+    400490: joint42
+    400492: joint43
+    400494: joint44
+    400496: joint45
+    400498: joint46
+    400500: joint47
+    400502: joint48
+    400504: joint49
+    400506: joint50
+    400508: joint51
+    400510: joint52
+    400512: joint53
+    400514: joint54
+    400516: //RootNode
+    400518: left
+    400520: mioanbu:pPlane1
+    400522: nurbsCircle1
+    400524: polySurface8724
+    400526: polySurface8725
+    400528: polySurface8728
+    400530: yaoshi:pCube3
+    400532: zahoban:pCube2
+    2000000: donghua1mb___S__:camera1
+    2000002: left
+    2100000: phong6
+    2100002: donghua1mb___S___men_blinn1
+    2100004: donghua1mb___S___phong1
+    2100006: donghua1mb___S___blinn1
+    2100008: donghua1mb___S___Shui_pingyi1
+    2100010: donghua1mb___S____QB_C
+    2100012: donghua1mb___S___phong5
+    2100014: donghua1mb___S___phong6
+    2100016: donghua1mb___S___phong10
+    2100018: donghua1mb___S___phong11
+    2100020: donghua1mb___S___phong14
+    2100022: donghua1mb___S___phong15
+    2100024: donghua1mb___S___phong16
+    2100026: donghua1mb___S___phong17
+    2100028: donghua1mb___S___langtou__DC_L1SG1
+    2100030: donghua1mb___S___banshou_pasted__BS_LSG1
+    2100032: mioanbu_initialShadingGroup1
+    2100034: donghua1mb___S___Ji_guangxian1
+    2100036: donghua1mb___S___qianbixian
+    2100038: donghua1mb___S___phong7
+    2100040: donghua1mb___S___aa_phong7
+    2100042: donghua1mb___S___phong8
+    2100044: donghua1mb___S___phong9
+    2100046: donghua1mb___S___phong12
+    2100048: donghua1mb___S___phong13
+    2100050: donghua1mb___S___phong19
+    2100052: donghua1mb___S___phong28
+    2100054: donghua1mb___S___men_lambert2
+    2100056: donghua1mb___S___phong27
+    2100058: phong1
+    2100060: donghua1mb___S___phong20
+    2100062: donghua1mb___S___phong21
+    2100064: donghua1mb___S___phong23
+    2100066: JLMMS_initialShadingGroup1
+    2100068: phong5
+    2300000: donghua1mb___S__:_QB_L3
+    2300002: donghua1mb___S__:_QB_L4
+    2300004: donghua1mb___S__:_QB_L5
+    2300006: donghua1mb___S__:A_LOW_1
+    2300008: donghua1mb___S__:A_LOW_1 1
+    2300010: donghua1mb___S__:A_LOW_1 10
+    2300012: donghua1mb___S__:A_LOW_1 11
+    2300014: donghua1mb___S__:A_LOW_1 12
+    2300016: donghua1mb___S__:A_LOW_1 13
+    2300018: donghua1mb___S__:A_LOW_1 14
+    2300020: donghua1mb___S__:A_LOW_1 15
+    2300022: donghua1mb___S__:A_LOW_1 16
+    2300024: donghua1mb___S__:A_LOW_1 2
+    2300026: donghua1mb___S__:A_LOW_1 3
+    2300028: donghua1mb___S__:A_LOW_1 4
+    2300030: donghua1mb___S__:A_LOW_1 5
+    2300032: donghua1mb___S__:A_LOW_1 6
+    2300034: donghua1mb___S__:A_LOW_1 7
+    2300036: donghua1mb___S__:A_LOW_1 8
+    2300038: donghua1mb___S__:A_LOW_1 9
+    2300040: donghua1mb___S__:A_LOW_2
+    2300042: donghua1mb___S__:A_LOW_2 1
+    2300044: donghua1mb___S__:A_LOW_2 2
+    2300046: donghua1mb___S__:A_LOW_2 3
+    2300048: donghua1mb___S__:A_LOW_2 4
+    2300050: donghua1mb___S__:B_LOW_1
+    2300052: donghua1mb___S__:B_LOW_1 1
+    2300054: donghua1mb___S__:B_LOW_1 10
+    2300056: donghua1mb___S__:B_LOW_1 11
+    2300058: donghua1mb___S__:B_LOW_1 12
+    2300060: donghua1mb___S__:B_LOW_1 13
+    2300062: donghua1mb___S__:B_LOW_1 14
+    2300064: donghua1mb___S__:B_LOW_1 15
+    2300066: donghua1mb___S__:B_LOW_1 16
+    2300068: donghua1mb___S__:B_LOW_1 2
+    2300070: donghua1mb___S__:B_LOW_1 3
+    2300072: donghua1mb___S__:B_LOW_1 4
+    2300074: donghua1mb___S__:B_LOW_1 5
+    2300076: donghua1mb___S__:B_LOW_1 6
+    2300078: donghua1mb___S__:B_LOW_1 7
+    2300080: donghua1mb___S__:B_LOW_1 8
+    2300082: donghua1mb___S__:B_LOW_1 9
+    2300084: donghua1mb___S__:B_LOW_2
+    2300086: donghua1mb___S__:B_LOW_2 1
+    2300088: donghua1mb___S__:B_LOW_2 2
+    2300090: donghua1mb___S__:B_LOW_2 3
+    2300092: donghua1mb___S__:B_LOW_2 4
+    2300094: donghua1mb___S__:B_LOW_3
+    2300096: donghua1mb___S__:B_LOW_3 1
+    2300098: donghua1mb___S__:B_LOW_3 2
+    2300100: donghua1mb___S__:B_LOW_3 3
+    2300102: donghua1mb___S__:B_LOW_3 4
+    2300104: donghua1mb___S__:banshou1
+    2300106: donghua1mb___S__:C_LOW_1
+    2300108: donghua1mb___S__:C_LOW_1 1
+    2300110: donghua1mb___S__:C_LOW_1 10
+    2300112: donghua1mb___S__:C_LOW_1 11
+    2300114: donghua1mb___S__:C_LOW_1 12
+    2300116: donghua1mb___S__:C_LOW_1 13
+    2300118: donghua1mb___S__:C_LOW_1 14
+    2300120: donghua1mb___S__:C_LOW_1 15
+    2300122: donghua1mb___S__:C_LOW_1 16
+    2300124: donghua1mb___S__:C_LOW_1 2
+    2300126: donghua1mb___S__:C_LOW_1 3
+    2300128: donghua1mb___S__:C_LOW_1 4
+    2300130: donghua1mb___S__:C_LOW_1 5
+    2300132: donghua1mb___S__:C_LOW_1 6
+    2300134: donghua1mb___S__:C_LOW_1 7
+    2300136: donghua1mb___S__:C_LOW_1 8
+    2300138: donghua1mb___S__:C_LOW_1 9
+    2300140: donghua1mb___S__:celaing
+    2300142: donghua1mb___S__:celaing1
+    2300144: donghua1mb___S__:celaing2
+    2300146: donghua1mb___S__:celaing3
+    2300148: donghua1mb___S__:celaing4
+    2300150: donghua1mb___S__:celaing5
+    2300152: donghua1mb___S__:celaing6
+    2300154: donghua1mb___S__:celaing7
+    2300156: donghua1mb___S__:celaing8
+    2300158: donghua1mb___S__:celaing9
+    2300160: donghua1mb___S__:dianchui:polySurface8714
+    2300162: donghua1mb___S__:guidao_1_:polySurface2
+    2300164: donghua1mb___S__:guidao_1_:polySurface3
+    2300166: donghua1mb___S__:HC:polySurface1
+    2300168: donghua1mb___S__:KD:pCylinder13
+    2300170: donghua1mb___S__:langtou:_DC_L1
+    2300172: donghua1mb___S__:modou:polySurface1
+    2300174: donghua1mb___S__:ozls:A_LOW_1
+    2300176: donghua1mb___S__:ozls:B_LOW_1
+    2300178: donghua1mb___S__:ozls:C_LOW_1
+    2300180: donghua1mb___S__:pCube3
+    2300182: donghua1mb___S__:pCube3 1
+    2300184: donghua1mb___S__:pCube3 2
+    2300186: donghua1mb___S__:pCube4
+    2300188: donghua1mb___S__:pCube4 1
+    2300190: donghua1mb___S__:pCube4 2
+    2300192: donghua1mb___S__:pCube5
+    2300194: donghua1mb___S__:pCube5 1
+    2300196: donghua1mb___S__:pCube5 2
+    2300198: donghua1mb___S__:pCylinder1
+    2300200: donghua1mb___S__:pCylinder13
+    2300202: donghua1mb___S__:pCylinder14
+    2300204: donghua1mb___S__:pCylinder15
+    2300206: donghua1mb___S__:pCylinder16
+    2300208: donghua1mb___S__:pCylinder17
+    2300210: donghua1mb___S__:pCylinder18
+    2300212: donghua1mb___S__:pCylinder19
+    2300214: donghua1mb___S__:pCylinder2
+    2300216: donghua1mb___S__:pCylinder20
+    2300218: donghua1mb___S__:pCylinder21
+    2300220: donghua1mb___S__:pCylinder22
+    2300222: donghua1mb___S__:pCylinder23
+    2300224: donghua1mb___S__:pCylinder24
+    2300226: donghua1mb___S__:pCylinder25
+    2300228: donghua1mb___S__:pCylinder3
+    2300230: donghua1mb___S__:pCylinder4
+    2300232: donghua1mb___S__:polySurface1
+    2300234: donghua1mb___S__:polySurface2
+    2300236: donghua1mb___S__:polySurface27
+    2300238: donghua1mb___S__:polySurface29
+    2300240: donghua1mb___S__:polySurface3
+    2300242: donghua1mb___S__:polySurface8716
+    2300244: donghua1mb___S__:polySurface8717
+    2300246: donghua1mb___S__:polySurface8724
+    2300248: donghua1mb___S__:polySurface8731
+    2300250: donghua1mb___S__:polySurface8761
+    2300252: donghua1mb___S__:polySurface8771
+    2300254: donghua1mb___S__:pPlane1
+    2300256: donghua1mb___S__:pPlane10
+    2300258: donghua1mb___S__:pPlane2
+    2300260: donghua1mb___S__:pPlane3
+    2300262: donghua1mb___S__:pPlane4
+    2300264: donghua1mb___S__:pPlane5
+    2300266: donghua1mb___S__:pPlane6
+    2300268: donghua1mb___S__:pPlane7
+    2300270: donghua1mb___S__:pPlane8
+    2300272: donghua1mb___S__:pPlane9
+    2300274: donghua1mb___S__:pSphere1
+    2300276: donghua1mb___S__:pSphere2
+    2300278: donghua1mb___S__:Shui_pingyi
+    2300280: donghua1mb___S__:tiaochu
+    2300282: donghua1mb___S__:xian1
+    2300284: donghua1mb___S__:xian10
+    2300286: donghua1mb___S__:xian11
+    2300288: donghua1mb___S__:xian12
+    2300290: donghua1mb___S__:xian13
+    2300292: donghua1mb___S__:xian14
+    2300294: donghua1mb___S__:xian15
+    2300296: donghua1mb___S__:xian16
+    2300298: donghua1mb___S__:xian17
+    2300300: donghua1mb___S__:xian18
+    2300302: donghua1mb___S__:xian19
+    2300304: donghua1mb___S__:xian2
+    2300306: donghua1mb___S__:xian20
+    2300308: donghua1mb___S__:xian21
+    2300310: donghua1mb___S__:xian22
+    2300312: donghua1mb___S__:xian23
+    2300314: donghua1mb___S__:xian24
+    2300316: donghua1mb___S__:xian27
+    2300318: donghua1mb___S__:xian28
+    2300320: donghua1mb___S__:xian3
+    2300322: donghua1mb___S__:xian4
+    2300324: donghua1mb___S__:xian5
+    2300326: donghua1mb___S__:xian6
+    2300328: donghua1mb___S__:xian7
+    2300330: donghua1mb___S__:xian8
+    2300332: donghua1mb___S__:xian9
+    2300334: donghua1mb___S__:zhijia:polySurface23
+    2300336: donghua1mb___S__:zhijia:polySurface24
+    2300338: donghua1mb___S__:ZHLS:A_LOW_2
+    2300340: donghua1mb___S__:ZHLS:B_LOW_2
+    2300342: donghua1mb___S__:ZHLS:B_LOW_3
+    2300344: donghua1mb___S__:zuantou:pCylinder2
+    2300346: "donghua1mb___S__:\u5BF9\u8C61001"
+    2300348: JLMMS:polySurface1
+    2300350: mioanbu:pPlane1
+    2300352: polySurface8724
+    2300354: polySurface8725
+    2300356: yaoshi:pCube3
+    2300358: zahoban:pCube2
+    3300000: donghua1mb___S__:_QB_L3
+    3300002: donghua1mb___S__:_QB_L4
+    3300004: donghua1mb___S__:_QB_L5
+    3300006: donghua1mb___S__:A_LOW_1
+    3300008: donghua1mb___S__:A_LOW_1 1
+    3300010: donghua1mb___S__:A_LOW_1 10
+    3300012: donghua1mb___S__:A_LOW_1 11
+    3300014: donghua1mb___S__:A_LOW_1 12
+    3300016: donghua1mb___S__:A_LOW_1 13
+    3300018: donghua1mb___S__:A_LOW_1 14
+    3300020: donghua1mb___S__:A_LOW_1 15
+    3300022: donghua1mb___S__:A_LOW_1 16
+    3300024: donghua1mb___S__:A_LOW_1 2
+    3300026: donghua1mb___S__:A_LOW_1 3
+    3300028: donghua1mb___S__:A_LOW_1 4
+    3300030: donghua1mb___S__:A_LOW_1 5
+    3300032: donghua1mb___S__:A_LOW_1 6
+    3300034: donghua1mb___S__:A_LOW_1 7
+    3300036: donghua1mb___S__:A_LOW_1 8
+    3300038: donghua1mb___S__:A_LOW_1 9
+    3300040: donghua1mb___S__:A_LOW_2
+    3300042: donghua1mb___S__:A_LOW_2 1
+    3300044: donghua1mb___S__:A_LOW_2 2
+    3300046: donghua1mb___S__:A_LOW_2 3
+    3300048: donghua1mb___S__:A_LOW_2 4
+    3300050: donghua1mb___S__:B_LOW_1
+    3300052: donghua1mb___S__:B_LOW_1 1
+    3300054: donghua1mb___S__:B_LOW_1 10
+    3300056: donghua1mb___S__:B_LOW_1 11
+    3300058: donghua1mb___S__:B_LOW_1 12
+    3300060: donghua1mb___S__:B_LOW_1 13
+    3300062: donghua1mb___S__:B_LOW_1 14
+    3300064: donghua1mb___S__:B_LOW_1 15
+    3300066: donghua1mb___S__:B_LOW_1 16
+    3300068: donghua1mb___S__:B_LOW_1 2
+    3300070: donghua1mb___S__:B_LOW_1 3
+    3300072: donghua1mb___S__:B_LOW_1 4
+    3300074: donghua1mb___S__:B_LOW_1 5
+    3300076: donghua1mb___S__:B_LOW_1 6
+    3300078: donghua1mb___S__:B_LOW_1 7
+    3300080: donghua1mb___S__:B_LOW_1 8
+    3300082: donghua1mb___S__:B_LOW_1 9
+    3300084: donghua1mb___S__:B_LOW_2
+    3300086: donghua1mb___S__:B_LOW_2 1
+    3300088: donghua1mb___S__:B_LOW_2 2
+    3300090: donghua1mb___S__:B_LOW_2 3
+    3300092: donghua1mb___S__:B_LOW_2 4
+    3300094: donghua1mb___S__:B_LOW_3
+    3300096: donghua1mb___S__:B_LOW_3 1
+    3300098: donghua1mb___S__:B_LOW_3 2
+    3300100: donghua1mb___S__:B_LOW_3 3
+    3300102: donghua1mb___S__:B_LOW_3 4
+    3300104: donghua1mb___S__:banshou1
+    3300106: donghua1mb___S__:C_LOW_1
+    3300108: donghua1mb___S__:C_LOW_1 1
+    3300110: donghua1mb___S__:C_LOW_1 10
+    3300112: donghua1mb___S__:C_LOW_1 11
+    3300114: donghua1mb___S__:C_LOW_1 12
+    3300116: donghua1mb___S__:C_LOW_1 13
+    3300118: donghua1mb___S__:C_LOW_1 14
+    3300120: donghua1mb___S__:C_LOW_1 15
+    3300122: donghua1mb___S__:C_LOW_1 16
+    3300124: donghua1mb___S__:C_LOW_1 2
+    3300126: donghua1mb___S__:C_LOW_1 3
+    3300128: donghua1mb___S__:C_LOW_1 4
+    3300130: donghua1mb___S__:C_LOW_1 5
+    3300132: donghua1mb___S__:C_LOW_1 6
+    3300134: donghua1mb___S__:C_LOW_1 7
+    3300136: donghua1mb___S__:C_LOW_1 8
+    3300138: donghua1mb___S__:C_LOW_1 9
+    3300140: donghua1mb___S__:celaing
+    3300142: donghua1mb___S__:celaing1
+    3300144: donghua1mb___S__:celaing2
+    3300146: donghua1mb___S__:celaing3
+    3300148: donghua1mb___S__:celaing4
+    3300150: donghua1mb___S__:celaing5
+    3300152: donghua1mb___S__:celaing6
+    3300154: donghua1mb___S__:celaing7
+    3300156: donghua1mb___S__:celaing8
+    3300158: donghua1mb___S__:celaing9
+    3300160: donghua1mb___S__:dianchui:polySurface8714
+    3300162: donghua1mb___S__:guidao_1_:polySurface2
+    3300164: donghua1mb___S__:guidao_1_:polySurface3
+    3300166: donghua1mb___S__:HC:polySurface1
+    3300168: donghua1mb___S__:KD:pCylinder13
+    3300170: donghua1mb___S__:langtou:_DC_L1
+    3300172: donghua1mb___S__:modou:polySurface1
+    3300174: donghua1mb___S__:ozls:A_LOW_1
+    3300176: donghua1mb___S__:ozls:B_LOW_1
+    3300178: donghua1mb___S__:ozls:C_LOW_1
+    3300180: donghua1mb___S__:pCube3
+    3300182: donghua1mb___S__:pCube3 1
+    3300184: donghua1mb___S__:pCube3 2
+    3300186: donghua1mb___S__:pCube4
+    3300188: donghua1mb___S__:pCube4 1
+    3300190: donghua1mb___S__:pCube4 2
+    3300192: donghua1mb___S__:pCube5
+    3300194: donghua1mb___S__:pCube5 1
+    3300196: donghua1mb___S__:pCube5 2
+    3300198: donghua1mb___S__:pCylinder1
+    3300200: donghua1mb___S__:pCylinder13
+    3300202: donghua1mb___S__:pCylinder14
+    3300204: donghua1mb___S__:pCylinder15
+    3300206: donghua1mb___S__:pCylinder16
+    3300208: donghua1mb___S__:pCylinder17
+    3300210: donghua1mb___S__:pCylinder18
+    3300212: donghua1mb___S__:pCylinder19
+    3300214: donghua1mb___S__:pCylinder2
+    3300216: donghua1mb___S__:pCylinder20
+    3300218: donghua1mb___S__:pCylinder21
+    3300220: donghua1mb___S__:pCylinder22
+    3300222: donghua1mb___S__:pCylinder23
+    3300224: donghua1mb___S__:pCylinder24
+    3300226: donghua1mb___S__:pCylinder25
+    3300228: donghua1mb___S__:pCylinder3
+    3300230: donghua1mb___S__:pCylinder4
+    3300232: donghua1mb___S__:polySurface1
+    3300234: donghua1mb___S__:polySurface2
+    3300236: donghua1mb___S__:polySurface27
+    3300238: donghua1mb___S__:polySurface29
+    3300240: donghua1mb___S__:polySurface3
+    3300242: donghua1mb___S__:polySurface8716
+    3300244: donghua1mb___S__:polySurface8717
+    3300246: donghua1mb___S__:polySurface8724
+    3300248: donghua1mb___S__:polySurface8731
+    3300250: donghua1mb___S__:polySurface8761
+    3300252: donghua1mb___S__:polySurface8771
+    3300254: donghua1mb___S__:pPlane1
+    3300256: donghua1mb___S__:pPlane10
+    3300258: donghua1mb___S__:pPlane2
+    3300260: donghua1mb___S__:pPlane3
+    3300262: donghua1mb___S__:pPlane4
+    3300264: donghua1mb___S__:pPlane5
+    3300266: donghua1mb___S__:pPlane6
+    3300268: donghua1mb___S__:pPlane7
+    3300270: donghua1mb___S__:pPlane8
+    3300272: donghua1mb___S__:pPlane9
+    3300274: donghua1mb___S__:pSphere1
+    3300276: donghua1mb___S__:pSphere2
+    3300278: donghua1mb___S__:Shui_pingyi
+    3300280: donghua1mb___S__:tiaochu
+    3300282: donghua1mb___S__:xian1
+    3300284: donghua1mb___S__:xian10
+    3300286: donghua1mb___S__:xian11
+    3300288: donghua1mb___S__:xian12
+    3300290: donghua1mb___S__:xian13
+    3300292: donghua1mb___S__:xian14
+    3300294: donghua1mb___S__:xian15
+    3300296: donghua1mb___S__:xian16
+    3300298: donghua1mb___S__:xian17
+    3300300: donghua1mb___S__:xian18
+    3300302: donghua1mb___S__:xian19
+    3300304: donghua1mb___S__:xian2
+    3300306: donghua1mb___S__:xian20
+    3300308: donghua1mb___S__:xian21
+    3300310: donghua1mb___S__:xian22
+    3300312: donghua1mb___S__:xian23
+    3300314: donghua1mb___S__:xian24
+    3300316: donghua1mb___S__:xian27
+    3300318: donghua1mb___S__:xian28
+    3300320: donghua1mb___S__:xian3
+    3300322: donghua1mb___S__:xian4
+    3300324: donghua1mb___S__:xian5
+    3300326: donghua1mb___S__:xian6
+    3300328: donghua1mb___S__:xian7
+    3300330: donghua1mb___S__:xian8
+    3300332: donghua1mb___S__:xian9
+    3300334: donghua1mb___S__:zhijia:polySurface23
+    3300336: donghua1mb___S__:zhijia:polySurface24
+    3300338: donghua1mb___S__:ZHLS:A_LOW_2
+    3300340: donghua1mb___S__:ZHLS:B_LOW_2
+    3300342: donghua1mb___S__:ZHLS:B_LOW_3
+    3300344: donghua1mb___S__:zuantou:pCylinder2
+    3300346: "donghua1mb___S__:\u5BF9\u8C61001"
+    3300348: JLMMS:polySurface1
+    3300350: mioanbu:pPlane1
+    3300352: polySurface8724
+    3300354: polySurface8725
+    3300356: yaoshi:pCube3
+    3300358: zahoban:pCube2
+    4300000: polySurface8725
+    4300002: polySurface8724
+    4300004: donghua1mb___S__:polySurface8761
+    4300006: donghua1mb___S__:polySurface1
+    4300008: donghua1mb___S__:polySurface8771
+    4300010: donghua1mb___S__:polySurface2
+    4300012: donghua1mb___S__:polySurface3
+    4300014: donghua1mb___S__:Shui_pingyi
+    4300016: donghua1mb___S__:_QB_L5
+    4300018: donghua1mb___S__:_QB_L3
+    4300020: donghua1mb___S__:_QB_L4
+    4300022: donghua1mb___S__:polySurface29
+    4300024: donghua1mb___S__:polySurface27
+    4300026: "donghua1mb___S__:\u5BF9\u8C61001"
+    4300028: donghua1mb___S__:HC:polySurface1
+    4300030: donghua1mb___S__:tiaochu
+    4300032: donghua1mb___S__:pCylinder1
+    4300034: donghua1mb___S__:modou:polySurface1
+    4300036: donghua1mb___S__:dianchui:polySurface8714
+    4300038: donghua1mb___S__:zuantou:pCylinder2
+    4300040: donghua1mb___S__:langtou:_DC_L1
+    4300042: donghua1mb___S__:banshou1
+    4300044: mioanbu:pPlane1
+    4300046: donghua1mb___S__:pCube5
+    4300048: donghua1mb___S__:pCube4
+    4300050: donghua1mb___S__:pCube3
+    4300052: donghua1mb___S__:pCube5
+    4300054: donghua1mb___S__:pCube4
+    4300056: donghua1mb___S__:pCube3
+    4300058: donghua1mb___S__:pCube5
+    4300060: donghua1mb___S__:pCube4
+    4300062: donghua1mb___S__:pCube3
+    4300064: donghua1mb___S__:xian1
+    4300066: donghua1mb___S__:xian2
+    4300068: donghua1mb___S__:xian3
+    4300070: donghua1mb___S__:xian4
+    4300072: donghua1mb___S__:xian5
+    4300074: donghua1mb___S__:xian6
+    4300076: donghua1mb___S__:xian7
+    4300078: donghua1mb___S__:xian8
+    4300080: donghua1mb___S__:xian9
+    4300082: donghua1mb___S__:xian10
+    4300084: donghua1mb___S__:xian11
+    4300086: donghua1mb___S__:xian12
+    4300088: donghua1mb___S__:xian13
+    4300090: donghua1mb___S__:xian14
+    4300092: donghua1mb___S__:xian15
+    4300094: donghua1mb___S__:xian16
+    4300096: donghua1mb___S__:xian17
+    4300098: donghua1mb___S__:xian18
+    4300100: donghua1mb___S__:xian19
+    4300102: donghua1mb___S__:xian20
+    4300104: donghua1mb___S__:xian21
+    4300106: donghua1mb___S__:xian22
+    4300108: donghua1mb___S__:xian23
+    4300110: donghua1mb___S__:xian24
+    4300112: donghua1mb___S__:xian27
+    4300114: donghua1mb___S__:xian28
+    4300116: donghua1mb___S__:pPlane1
+    4300118: donghua1mb___S__:celaing
+    4300120: donghua1mb___S__:pPlane2
+    4300122: donghua1mb___S__:celaing1
+    4300124: donghua1mb___S__:pPlane3
+    4300126: donghua1mb___S__:celaing2
+    4300128: donghua1mb___S__:celaing3
+    4300130: donghua1mb___S__:pPlane4
+    4300132: donghua1mb___S__:pPlane5
+    4300134: donghua1mb___S__:celaing4
+    4300136: donghua1mb___S__:celaing5
+    4300138: donghua1mb___S__:pPlane6
+    4300140: donghua1mb___S__:pSphere1
+    4300142: donghua1mb___S__:pSphere2
+    4300144: donghua1mb___S__:pPlane7
+    4300146: donghua1mb___S__:celaing6
+    4300148: donghua1mb___S__:pPlane8
+    4300150: donghua1mb___S__:celaing7
+    4300152: donghua1mb___S__:pPlane9
+    4300154: donghua1mb___S__:celaing8
+    4300156: donghua1mb___S__:celaing9
+    4300158: donghua1mb___S__:pPlane10
+    4300160: donghua1mb___S__:pCylinder2
+    4300162: donghua1mb___S__:pCylinder3
+    4300164: donghua1mb___S__:pCylinder4
+    4300166: donghua1mb___S__:zhijia:polySurface24
+    4300168: donghua1mb___S__:zhijia:polySurface23
+    4300170: donghua1mb___S__:polySurface8717
+    4300172: donghua1mb___S__:polySurface8716
+    4300174: donghua1mb___S__:polySurface8724
+    4300176: donghua1mb___S__:polySurface8731
+    4300178: donghua1mb___S__:guidao_1_:polySurface3
+    4300180: donghua1mb___S__:guidao_1_:polySurface2
+    4300182: zahoban:pCube2
+    4300184: donghua1mb___S__:KD:pCylinder13
+    4300186: donghua1mb___S__:pCylinder13
+    4300188: donghua1mb___S__:pCylinder14
+    4300190: donghua1mb___S__:pCylinder15
+    4300192: donghua1mb___S__:pCylinder16
+    4300194: donghua1mb___S__:pCylinder17
+    4300196: donghua1mb___S__:pCylinder18
+    4300198: donghua1mb___S__:pCylinder19
+    4300200: donghua1mb___S__:pCylinder20
+    4300202: donghua1mb___S__:pCylinder21
+    4300204: donghua1mb___S__:pCylinder22
+    4300206: donghua1mb___S__:pCylinder23
+    4300208: donghua1mb___S__:pCylinder24
+    4300210: donghua1mb___S__:pCylinder25
+    4300212: donghua1mb___S__:ozls:B_LOW_1
+    4300214: donghua1mb___S__:ozls:A_LOW_1
+    4300216: donghua1mb___S__:ozls:C_LOW_1
+    4300218: donghua1mb___S__:A_LOW_1
+    4300220: donghua1mb___S__:B_LOW_1
+    4300222: donghua1mb___S__:C_LOW_1
+    4300224: donghua1mb___S__:A_LOW_1
+    4300226: donghua1mb___S__:B_LOW_1
+    4300228: donghua1mb___S__:C_LOW_1
+    4300230: donghua1mb___S__:A_LOW_1
+    4300232: donghua1mb___S__:B_LOW_1
+    4300234: donghua1mb___S__:C_LOW_1
+    4300236: donghua1mb___S__:A_LOW_1
+    4300238: donghua1mb___S__:B_LOW_1
+    4300240: donghua1mb___S__:C_LOW_1
+    4300242: donghua1mb___S__:A_LOW_1
+    4300244: donghua1mb___S__:B_LOW_1
+    4300246: donghua1mb___S__:C_LOW_1
+    4300248: donghua1mb___S__:A_LOW_1
+    4300250: donghua1mb___S__:B_LOW_1
+    4300252: donghua1mb___S__:C_LOW_1
+    4300254: donghua1mb___S__:A_LOW_1
+    4300256: donghua1mb___S__:B_LOW_1
+    4300258: donghua1mb___S__:C_LOW_1
+    4300260: donghua1mb___S__:B_LOW_1
+    4300262: donghua1mb___S__:A_LOW_1
+    4300264: donghua1mb___S__:C_LOW_1
+    4300266: donghua1mb___S__:B_LOW_1
+    4300268: donghua1mb___S__:A_LOW_1
+    4300270: donghua1mb___S__:C_LOW_1
+    4300272: donghua1mb___S__:B_LOW_1
+    4300274: donghua1mb___S__:A_LOW_1
+    4300276: donghua1mb___S__:C_LOW_1
+    4300278: donghua1mb___S__:B_LOW_1
+    4300280: donghua1mb___S__:A_LOW_1
+    4300282: donghua1mb___S__:C_LOW_1
+    4300284: donghua1mb___S__:B_LOW_1
+    4300286: donghua1mb___S__:A_LOW_1
+    4300288: donghua1mb___S__:C_LOW_1
+    4300290: donghua1mb___S__:B_LOW_1
+    4300292: donghua1mb___S__:A_LOW_1
+    4300294: donghua1mb___S__:C_LOW_1
+    4300296: donghua1mb___S__:A_LOW_1
+    4300298: donghua1mb___S__:B_LOW_1
+    4300300: donghua1mb___S__:C_LOW_1
+    4300302: donghua1mb___S__:A_LOW_1
+    4300304: donghua1mb___S__:B_LOW_1
+    4300306: donghua1mb___S__:C_LOW_1
+    4300308: donghua1mb___S__:A_LOW_1
+    4300310: donghua1mb___S__:B_LOW_1
+    4300312: donghua1mb___S__:C_LOW_1
+    4300314: donghua1mb___S__:A_LOW_1
+    4300316: donghua1mb___S__:B_LOW_1
+    4300318: donghua1mb___S__:C_LOW_1
+    4300320: donghua1mb___S__:ZHLS:B_LOW_3
+    4300322: donghua1mb___S__:ZHLS:B_LOW_2
+    4300324: donghua1mb___S__:ZHLS:A_LOW_2
+    4300326: donghua1mb___S__:B_LOW_3
+    4300328: donghua1mb___S__:B_LOW_2
+    4300330: donghua1mb___S__:A_LOW_2
+    4300332: donghua1mb___S__:B_LOW_3
+    4300334: donghua1mb___S__:B_LOW_2
+    4300336: donghua1mb___S__:A_LOW_2
+    4300338: donghua1mb___S__:B_LOW_3
+    4300340: donghua1mb___S__:B_LOW_2
+    4300342: donghua1mb___S__:A_LOW_2
+    4300344: donghua1mb___S__:B_LOW_3
+    4300346: donghua1mb___S__:B_LOW_2
+    4300348: donghua1mb___S__:A_LOW_2
+    4300350: donghua1mb___S__:B_LOW_3
+    4300352: donghua1mb___S__:B_LOW_2
+    4300354: donghua1mb___S__:A_LOW_2
+    4300356: JLMMS:polySurface1
+    4300358: yaoshi:pCube3
+    7400000: donghua1mb+=
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
