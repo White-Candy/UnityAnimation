@@ -3,26 +3,29 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Scene : MonoBehaviour
+public class Scene : BaseScene
 {
-    public string animStateName;
-    public List<AnimStruct> AnimClips;
-    int clipIdx = 0;
-
+    private CoroutineControl control;
     void Start()
     {
-        
+
     }
 
-    void FixedUpdate()
+    void Update()
     {
-        if (Input.GetKeyDown(KeyCode.N))
+        if (!string.IsNullOrEmpty(Input.inputString))
         {
-            if (clipIdx < AnimClips.Count)
-            {
-                StartCoroutine(AnimController.Instance.AnimClipPlay(this.gameObject, animStateName, AnimClips[clipIdx++],
-                                new Tuple<string, bool>("play", true)));
-            }
+            InputKeyPlayValAnim(Input.inputString);
+        }
+    }
+
+    public void InputKeyPlayValAnim(string key)
+    {
+        int idx = int.Parse(key);
+        if (idx < AnimClips.Count)
+        {
+            CoroutineExtension.GoCoroutine(this, 
+                    AnimController.Instance.AnimClipPlay(this, idx, new Tuple<string, bool>("play", true)));
         }
     }
 }
