@@ -15,7 +15,7 @@ public class AnimStruct
 public class AnimController : MonoBehaviour
 {
     private static AnimController m_instance;
-
+    private static bool m_PuaseOrPlay = false; // False can Pause, Ture can Play
     public static AnimController Instance
     {
         get
@@ -28,7 +28,7 @@ public class AnimController : MonoBehaviour
         }
     }
 
-    public IEnumerator AnimClipPlay(BaseScene obj, int idx, params Tuple<string, bool>[] param)
+    public IEnumerator AnimClipPlay(BaseScene obj, int idx, string target, params Tuple<string, bool>[] param)
     {
         Animator animtor = obj?.GetComponent<Animator>(); //获得组件Animator
         foreach (var p in param)
@@ -42,7 +42,16 @@ public class AnimController : MonoBehaviour
         string stateName = obj.animStateName;
         List<AnimStruct> Clips = obj.AnimClips;
         AnimStruct clip = Clips[idx];
-        Camera animCam = obj?.GetComponentInChildren<Camera>();
+        Camera[] arrCameras = obj?.GetComponentsInChildren<Camera>();
+        Camera animCam = null;
+        foreach(var c in arrCameras)
+        {
+           if (c.name == target)
+            {
+                animCam = c;
+                break;
+            }
+        }
 
         if (clip != null && animtor != null && animCam != null)
         {
@@ -56,7 +65,7 @@ public class AnimController : MonoBehaviour
 
             animtor.PlayInFixedTime(stateName, 0, start); // 从 start时间开始播放动画
             animtor.speed = 1.0f;
- 
+
             yield return new WaitForSeconds(animTime);
 
             // 播放完毕关闭动画
@@ -68,5 +77,12 @@ public class AnimController : MonoBehaviour
             }
         }
         yield return null;
+    }
+
+    public void ControlAnimState(BaseScene obj)
+    {
+        Animator animtor = obj?.GetComponent<Animator>(); //获得组件Animator
+        animtor.speed = m_PuaseOrPlay == true ? 1.0f : 0f;
+        m_PuaseOrPlay = !m_PuaseOrPlay;
     }
 }

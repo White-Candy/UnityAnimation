@@ -6,6 +6,7 @@ using UnityEngine;
 public class Scene : BaseScene
 {
     private CoroutineControl control;
+
     void Start()
     {
 
@@ -21,11 +22,19 @@ public class Scene : BaseScene
 
     public void InputKeyPlayValAnim(string key)
     {
-        int idx = int.Parse(key);
-        if (idx < AnimClips.Count)
+
+        int idx;
+        if (int.TryParse(key, out idx))
         {
-            CoroutineExtension.GoCoroutine(this, 
-                    AnimController.Instance.AnimClipPlay(this, idx, new Tuple<string, bool>("play", true)));
+            if (idx < AnimClips.Count)
+            {
+                CoroutineExtension.GoCoroutine(this,
+                        AnimController.Instance.AnimClipPlay(this, idx, TargetCameraName, new Tuple<string, bool>("play", true)));
+            }
+        }
+        else
+        {
+            if (key == "p") AnimController.Instance.ControlAnimState(this);
         }
     }
 }
